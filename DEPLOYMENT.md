@@ -47,20 +47,20 @@ Update the `homepage` field in `package.json` to match your GitHub username:
 ### Method 2: Manual Deployment
 ```bash
 # Build and deploy manually
-npm run deploy
+yarn deploy
 ```
 
 ## Local Development
 
 ```bash
 # Install dependencies
-npm install
+yarn install
 
 # Start development server
-npm start
+yarn start
 
 # Build for production
-npm run build
+yarn build
 ```
 
 ## Project Structure
